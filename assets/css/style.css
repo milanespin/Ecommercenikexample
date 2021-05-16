@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner {
+    text-align : right;
+    background-image : url('../img/george-pagan-iii-PsifAN6_z-k-unsplash.jpg');
+    background-repeat : no-repeat;
+    background-size : cover;
+    color : #ffffff ;
+    text-shadow : 2px 3px 2px #222222 ;
+    padding : 50px 50px 150px 50px ;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+
+}
